@@ -1,4 +1,9 @@
 /vendor
 /app
+<<<<<<< HEAD
 composer.lock
 .env
+=======
+/composer.lock
+/.env
+>>>>>>> 1fcd787 (updates)
