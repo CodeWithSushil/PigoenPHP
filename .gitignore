@@ -1,9 +1,14 @@
 /vendor
 /app
 <<<<<<< HEAD
+<<<<<<< HEAD
 composer.lock
 .env
 =======
 /composer.lock
 /.env
 >>>>>>> 1fcd787 (updates)
+=======
+/composer.lock
+/.env
+>>>>>>> d5284270d6911097aa4b1e3f19a73d1e8cb35104

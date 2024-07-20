@@ -1,12 +1,12 @@
 <?php
-namespace PigoenPHP;
+//namespace PigoenPHP;
 
 class PigoenPHP
 {
   public $message;
   
   public function __construct(){
-    echo "Hey 👋 PigoenPHP!";
+    echo "<br><hr>Hey 👋 PigoenPHP!<hr><br>";
   }
 
   public function setMessage($msg){
